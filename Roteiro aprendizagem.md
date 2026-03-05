@@ -3,7 +3,7 @@ Conceitos Basicos
 - Nivelamento Linux
     - Assistir aulas Ubantu _ OK
     - Instalar Ubantu _ OK
-    - Aula sobre comandos do terminal _ (4/8)
+    - Aula sobre comandos do terminal _ (5/8)
     - Exercicios comandos terminal
 Dimensao de Programacao
 - GIT
