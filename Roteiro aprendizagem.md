@@ -4,7 +4,7 @@ Conceitos Basicos
     - Assistir aulas Ubantu _ OK
     - Instalar Ubantu _ OK
     - Aula sobre comandos do terminal _ (6/8)
-    - Exercicios comandos terminal
+    - Exercicios comandos terminal _ (1/2)
 Dimensao de Programacao
 - GIT
     - Assistir aula
