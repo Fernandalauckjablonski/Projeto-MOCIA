@@ -5,7 +5,8 @@ Conceitos Basicos
     - Instalar Ubantu _ OK
     - Aula sobre comandos do terminal _ (6/8)
     - Exercicios comandos terminal _ (1/2)
-          - https://drive.google.com/file/d/1MvgIBejivYdUGKymREoDp08mp6Tc9R38/view?usp=sharing
+      
+          1. https://drive.google.com/file/d/1MvgIBejivYdUGKymREoDp08mp6Tc9R38/view?usp=sharing
       
 Dimensao de Programacao
 - GIT
