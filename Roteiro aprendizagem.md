@@ -1,12 +1,13 @@
-Conceitos Basicos - semana 1
+Conceitos Basicos - OK
 - Identidade Eletronica (ler capitulo 2 tese) _ OK
 - Nivelamento Linux
     - Assistir aulas Ubantu _ OK
     - Instalar Ubantu _ OK
     - Aula sobre comandos do terminal _ OK (8/8)
-    - Exercicios comandos terminal _ (1/2)
+    - Exercicios comandos terminal _ OK (2/2)
       
           1. https://drive.google.com/file/d/1MvgIBejivYdUGKymREoDp08mp6Tc9R38/view?usp=sharing
+          2. https://drive.google.com/file/d/1KdHeoguDEh3Oe5A9vpZoYctkxbo6Hdm4/view?usp=sharinghttps://drive.google.com/file/d/1KdHeoguDEh3Oe5A9vpZoYctkxbo6Hdm4/view?usp=sharing
       
 Dimensao de Programacao - semana 2 e 3
 - GIT
